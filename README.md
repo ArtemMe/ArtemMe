@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Artem
+- 👀 I’m interested in creating information systems, investing and automation some borring staff
+- 🌱 I’m currently learning koltin, python, architecture
+- 📫 How to reach me: Twitter -> @artem_mezh
